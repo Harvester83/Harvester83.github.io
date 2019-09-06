@@ -11,7 +11,7 @@ section.resume-section {
 }
 @media (min-width: 768px) {
   section.resume-section {
-    min-height: 100vh;
+    min-height: 70vh;
     .resume-item {
       .resume-date {
         min-width: 18rem;
@@ -21,7 +21,7 @@ section.resume-section {
 }
 @media (min-width: 992px) {
   section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
   }
 }
